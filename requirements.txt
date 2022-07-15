@@ -1,0 +1,6 @@
+Flask~=2.1.1
+Flask-Caching
+Flask_Cors
+Flask-RESTful
+marshmallow~=3.15.0
+PyYaml
